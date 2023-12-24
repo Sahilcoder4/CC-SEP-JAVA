@@ -14,7 +14,7 @@ public class currencyconverter
       Scanner sc = new Scanner(System.in);
  
       System.out.println("Following are the Choices:");
-      System.out.println("Enter 1: Ruppe");
+      System.out.println("Enter 1: Rupee");
       System.out.println("Enter 2: Dollar");
       System.out.println("Enter 3: Pound");
       System.out.println("Enter 4: Euro");
